@@ -1,1 +1,1 @@
-# women-in-ai-hackathon
+# CODE GENIE
